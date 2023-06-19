@@ -1,0 +1,12 @@
+cassandra-driver
+fastapi
+gunicorn
+jupyter
+pandas
+pypyr
+python-dotenv
+tensorflow
+uvicorn
+scikit-learn
+boto3
+cryptography
